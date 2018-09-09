@@ -8,5 +8,6 @@ function happyHolidaysTo(Sharon){
   return (`Happy holidays, ${Sharon}!`)
 }
 
-function happyHolidaysTo(Happy_New_Year, Sharon)(
-  )
+function happyHolidaysTo(Happy_New_Year, Sharon){
+  return (`Happy ${Happy_New_Year}, ${Sharon}!`)
+}
