@@ -9,5 +9,8 @@ function happyHolidaysTo(Sharon){
 }
 
 function happyHolidayTo(Happy_New_Year, Sharon){
+  console.log(Happy_New_Year);
   return (`Happy ${Happy_New_Year}, ${Sharon}!`)
 }
+
+function holidayCountdown()
